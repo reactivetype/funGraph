@@ -24,4 +24,5 @@ The following graph operations are currently implemented:
    * Strongly connected components: decompose a graph into componends based on Kosaraju-Sharir algorithm
 
 [1] Martin Erwig. 2001. Inductive graphs and functional graph algorithms. J. Funct. Program. 11, 5 (September 2001), 467-492.
+
 [2] Micha Sharir. A strong connectivity algorithm and its applications to data flow analysis.
